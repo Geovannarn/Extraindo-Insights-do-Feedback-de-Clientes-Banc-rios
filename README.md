@@ -1,6 +1,6 @@
 # Extraindo-Insights-do-Feedback-de-Clientes-Bancarios
 
-# Prompt:Atue como Analista Sênior de Experiência do Cliente (CX) e Transparência Financeira em um banco.
+# Prompt: Atue como Analista Sênior de Experiência do Cliente (CX) e Transparência Financeira em um banco.
 Sua tarefa é analisar a base de dados de feedbacks de clientes para identificar e categorizar problemas de opacidade e falta de clareza nos serviços e produtos digitais da instituição.
 
 Contexto:
